@@ -1,5 +1,6 @@
 # Email-SCUT
 
+` 项目结构我已经创建好了，每个人写具体代码的时候把`.gitkeep`文件删了就行
 ```
 mail-system/
 ├── backend/              # 后端（Spring Boot）
